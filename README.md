@@ -1,5 +1,7 @@
 **Portfolio Landing Page**
 
+###DATA ANALYTICS PORTFOLIO
+
 I am a software engineer with experience in data analysis, utilizing various tools and technologies to collect, clean, organize, and analyze data to support business decision-making. I possess a strong command of tools such as Python, SQL, Excel, Tableau, and Github, and have extensive knowledge of data analysis techniques, including dashboard creation, report writing, data mining, data merging, statistics, and critical thinking.
 
 My portfolio includes a variety of projects that showcase my data analysis skills. You will find examples of dashboards and reports I have created using tools such as Tableau and Excel. These projects highlight my ability to analyze and present data in a clear and visually appealing manner, enabling decision-makers to understand the information and take action.
