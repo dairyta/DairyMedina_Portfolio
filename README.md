@@ -14,8 +14,7 @@ I am confident that my skills and experience in data analysis make me an ideal c
 
 Thank you for considering my application, and I look forward to hearing from you soon.
 
-<h2>Project 1 </h2>
-Investigate a Dataset - TMDb Movie Data Analysis.
+<h2>Project 1 </h2> **Investigate a Dataset - TMDb Movie Data Analysis.**
 
 In this project, we'll be analyzing a dataset and then communicate findings about it. we'll be using the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
 
