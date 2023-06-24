@@ -1,6 +1,6 @@
-**Portfolio Landing Page**
+<h2>Portfolio Landing Page</h2>
 
-###DATA ANALYTICS PORTFOLIO
+<h1>DATA ANALYTICS PORTFOLIO</h1>
 
 I am a software engineer with experience in data analysis, utilizing various tools and technologies to collect, clean, organize, and analyze data to support business decision-making. I possess a strong command of tools such as Python, SQL, Excel, Tableau, and Github, and have extensive knowledge of data analysis techniques, including dashboard creation, report writing, data mining, data merging, statistics, and critical thinking.
 
