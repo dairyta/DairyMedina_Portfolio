@@ -13,3 +13,14 @@ In addition to my technical skills, I excel in critical thinking and problem-sol
 I am confident that my skills and experience in data analysis make me an ideal candidate for any data analyst position. I hope you find my portfolio informative and engaging, and I am available to discuss my qualifications in more detail with you.
 
 Thank you for considering my application, and I look forward to hearing from you soon.
+
+<h2>Project 1 </h2>
+Investigate a Dataset - TMDb Movie Data Analysis.
+
+In this project, we'll be analyzing a dataset and then communicate findings about it. we'll be using the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
+
+This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
+
+Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters.
+The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars, accounting for inflation over time
+There are some odd characters in the ‘cast’ column. They'll be addressed during the data cleaning process
