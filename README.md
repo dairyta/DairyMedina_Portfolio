@@ -16,11 +16,12 @@ Thank you for considering my application, and I look forward to hearing from you
 
 <h2>Project 1 </h2> **Investigate a Dataset - TMDb Movie Data Analysis.**
 
-In this project, we will be cleaning and analyzing the Movie Database (TMDb).
+In this project, I cleaned and analyzed the Movie Database (TMDb).
 This dataset contains information about 10,000 movies.
-We will be using the Python libraries NumPy, Pandas, and Matplotlib to make your analysis easier.
+I curated datasets from Database (TMDb), and investigate them using NumPy and pandas, and Matplotlib. 
+I complete the entire data analysis process, starting by posing a question and finishing by sharing the findings.
 
-1. Some questions are posed based on the data set that needs to be investigated.
-2. Cleans the data from the dataset
-3. Exploratory data analysis (EDA) is implemented to find the information according to the research questions.
-4. Finally, the conclusion is drawn, and the ideas are shown through graphs.
+1. Some questions are posed based on the data set that was investigated.
+2. Cleaned the data from the dataset
+3. Exploratory data analysis (EDA) was implemented to find the information according to the research questions.
+4. Finally, the conclusion is drawn and the ideas are shown through graphics.
