@@ -16,10 +16,11 @@ Thank you for considering my application, and I look forward to hearing from you
 
 <h2>Project 1 </h2> **Investigate a Dataset - TMDb Movie Data Analysis.**
 
-In this project, we'll be analyzing a dataset and then communicate findings about it. we'll be using the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
+In this project, we will be cleaning and analyzing the Movie Database (TMDb).
+This dataset contains information about 10,000 movies.
+We will be using the Python libraries NumPy, Pandas, and Matplotlib to make your analysis easier.
 
-This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
-
-Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters.
-The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars, accounting for inflation over time
-There are some odd characters in the ‘cast’ column. They'll be addressed during the data cleaning process
+1. Some questions are posed based on the data set that needs to be investigated.
+2. Cleans the data from the dataset
+3. Exploratory data analysis (EDA) is implemented to find the information according to the research questions.
+4. Finally, the conclusion is drawn, and the ideas are shown through graphs.
