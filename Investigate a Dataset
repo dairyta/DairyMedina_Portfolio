@@ -1,0 +1,11 @@
+<h2>Project 1 </h2> **Investigate a Dataset - TMDb Movie Data Analysis.**
+
+In this project, I cleaned and analyzed the Movie Database (TMDb).
+This dataset contains information about 10,000 movies.
+I curated datasets from Database (TMDb) and investigated them using NumPy, and pandas, and Matplotlib. 
+I completed the entire data analysis process, starting by posing a question and finishing by sharing the findings.
+
+1. Some questions are posed based on the data set that was investigated.
+2. Cleaned the data from the dataset
+3. Exploratory data analysis (EDA) was implemented to find the information according to the research questions.
+4. Finally, the conclusion is drawn and the ideas are shown through graphics.
